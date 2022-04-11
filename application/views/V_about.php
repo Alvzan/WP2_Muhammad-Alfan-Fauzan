@@ -1,7 +1,7 @@
 <section>     
     <h1><?php echo $judul ?></h1> 
 
- 
+<img src="https://search.brave.com/images?q=anime+avatar&source=web#2" alt="flowers" class="avatar">
     <h4>Nama</h4>     
     <ul type="disc">         
         <li>Nama Depan : Muhammad Alvan Fauzan<li>         
@@ -10,12 +10,12 @@
     <br>     
     <h4>Alamat</h4>     
     <ul type="none">         
-        <li> Jalan Ciledug Raya No. 168 Pesanggrahan</li>     
+        <li> Gg H dujih no 66</li>     
     </ul> 
 
     <h4>Tempat Lahir</h4>     
     <ul type="none">         
-        <li>Cirebon</li>     
+        <li>Jakarta</li>     
     </ul> 
  
     <h4>Olah Raga Favorit</h4>     
